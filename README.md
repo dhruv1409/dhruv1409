@@ -11,15 +11,15 @@
 
 ### 🚀 About Me
 
-I’m a **Senior Software Engineer** with **4+ years of hands-on experience** building **scalable, high-performance web systems**.
+I’m a **Senior Software Engineer** with **5+ years of hands-on experience** building **scalable, high-performance web systems**.
 
 I specialize in:
 - **Backend architecture & system design**
-- **Real-time and event-driven systems**
+- **Interactive Frontends using Motion(Previously Framer-Motion)**
 - **Clean Architecture & Domain-Driven Design**
 - **Production-grade APIs & microservices**
 
-I enjoy working on **challenging problems**, optimizing **complex systems**, and building **products that scale cleanly**.
+I enjoy working on **challenging problems**, optimizing **complex systems** and building **products that scale cleanly**.
 
 ---
 
@@ -30,26 +30,27 @@ I enjoy working on **challenging problems**, optimizing **complex systems**, and
 - REST • GraphQL • API Gateways
 - Authentication & Authorization (JWT, OAuth)
 
+#### Frontend
+- NextJS • ReactJS • TypeScript
+- Tailwind CSS • Framer Motion
+- Redux Toolkit • Zustand
+- Performance-focused UI architecture
+
 #### Architecture & Infrastructure
 - Domain-Driven Design (DDD)
 - Clean Architecture
 - Microservices & Event-Driven Systems
-- Message Queues (RabbitMQ)
+- Message Queues
 
 #### Databases & Storage
-- MongoDB • PostgreSQL
+- PostgreSQL • MongoDB
 - Redis (Caching & performance optimization)
 - Data modeling for multi-tenant systems
 
-#### Frontend (When Needed)
-- React • TypeScript
-- Tailwind CSS • Framer Motion
-- Performance-focused UI architecture
-
-#### DevOps & Cloud
+#### DevOps & Serverless Technologies
 - Docker • Containerized deployments
 - CI/CD (GitHub Actions)
-- AWS (Lambda, S3, CloudFront, Cognito, DynamoDB)
+- AWS (Bedrock, Lambda, EC2, CloudFormation, S3, CloudFront, Cognito, IAM, DynamoDB, SES, Route53, LightSail)
 
 ---
 
@@ -90,8 +91,9 @@ I enjoy working on **challenging problems**, optimizing **complex systems**, and
 
 If you're interested in:
 - Backend / Full-Stack roles
+- Web Development
 - Open-source collaboration
 - System design discussions
 - Building scalable products
 
-📩 **Reach out — I’m always open to meaningful conversations.**
+📩 **Reach out — I’m always open to meaningful conversations 🙋‍♂️**
