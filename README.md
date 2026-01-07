@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dhruv Sharma 👋</h1>
+<h1 align="center">Hi, I'm Dhruv👋</h1>
 <h3 align="center">Senior Software Engineer • Backend & Full-Stack Architect</h3>
 
 <p align="center">
@@ -70,10 +70,10 @@ I enjoy working on **challenging problems**, optimizing **complex systems**, and
 
 ### 🏗️ What I’m Currently Building
 
-- 🔹 Serverless micro-app platform on AWS  
-- 🔹 AI-powered resume & quiz generation tools  
-- 🔹 Open-source UI utilities focused on performance & DX  
-- 🔹 Preparing reusable npm packages with clean APIs
+- Serverless micro-app platform on AWS  
+- AI-powered resume & quiz generation tools  
+- Open-source UI utilities focused on performance & DX  
+- Preparing reusable npm packages with clean APIs
 
 ---
 
