@@ -86,15 +86,6 @@ I enjoy working on **challenging problems**, optimizing **complex systems**, and
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv1409&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1409&theme=transparent" height="160" />
-</p>
-
----
-
 ### 🤝 Let’s Connect
 
 If you're interested in:
